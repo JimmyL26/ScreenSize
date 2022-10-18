@@ -1,0 +1,18 @@
+@media screen and (max-width: 600px) {
+    body {
+      background-color: yellow;
+    }
+  }
+
+@media screen and (min-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+/*I was able to acomplish this task by using @media
+wich allows me to change the appearance of the website
+based on the screen size. For this website, when the 
+screen is smaller, the background coor is yellow and
+when the screen is bigger, the background color is 
+lightblue.*/
